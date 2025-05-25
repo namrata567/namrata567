@@ -1,4 +1,5 @@
 -  Hi, I’m **@namrata567**
+-  I’m a self-motivated learner with a background in Physics and a growing skill set in web development ,Fine Arts and programming. 
 -  I’m interested in Astrophysics, Computational Physics, and building interactive web tools powered by AI and scientific APIs.
 -  I’m currently learning advanced mathematical modeling with Python, exploring React for data-driven interfaces, and diving deeper into LaTeX workflows for research writing.
 -  I’m looking to collaborate on open-source research tools, NASA/space science API projects, and physics-based simulations or visualizations.
